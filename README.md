@@ -26,10 +26,10 @@ The application operates as a Progressive Web App (PWA) or standalone dashboard.
 **Access Point:**  
 
 - ### http version 
-[http://trymetools.ultimatetool.2bd.net/](http://trymetools.ultimatetool.2bd.net/) 
+[http link](http://trymetools.ultimatetool.2bd.net/) 
 
 - ### https version 
-[https://trymetools.vercel.app/](https://trymetools.vercel.app/)
+[https link](https://trymetools.vercel.app/)
 
 *(Note: If direct access fails due to DNS/Parsing issues like `panel.hidden` or `matrix-cell`, use the primary URL above as it encapsulates all runtime assets including the JavaScript engine and CSS logic.)*
 
